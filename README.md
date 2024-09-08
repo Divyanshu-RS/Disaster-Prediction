@@ -9,7 +9,8 @@ It is evident that both drought and floods are significant natural disasters tha
 
 
 ## Process
-So how are we going to do it? We are going to use machine learning, deep learning and statistical learning theory to train our model to predict the calamity. We have got our data from Indian Govt Website (https://data.gov.in/resources/district-rainfall-normal-mm-monthly-seasonal-and-annual-data-period-1951-2000), it contains the monthly, annual and seasonal rainfall data of each state and their major district of India. The data is 50 years, from 1951-2000. Also we are getting instantaneous data of rainfall (visually data after each day) from Indian Meteorological Department (http://hydro.imd.gov.in/hydrometweb/(S(4py24b55cjhnute4evewhr55))/landing.aspx).The data looks like this.
+So how are we going to do it? We are going to use machine learning, deep learning and statistical learning theory to train our model to predict the calamity. We have got our data from Indian Govt Website (https://data.gov.in/resources/district-rainfall-normal-mm-monthly-seasonal-and-annual-data-period-1951-2000), it contains the monthly, annual and seasonal rainfall data of each state and their major district of India. The data is 50 years, from 1951-2000. Also we are getting instantaneous data of rainfall (visually data after each day) from Indian Meteorological Department (http://hydro.imd.gov.in/hydrometweb/(S(4py24b55cjhnute4evewhr55))/landing.aspx).
+<br>The data looks like this.
 
 - Phase 1:
 
